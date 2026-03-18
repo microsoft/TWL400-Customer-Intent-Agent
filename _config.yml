@@ -1,0 +1,24 @@
+title: TechWorkshop Customer Intent Agent
+description: This lab walks you through building a customer intent agent using Azure OpenAI and Azure Bot Service.
+theme: just-the-docs
+
+aux_links:
+  "TechWorkshop L400: Customer Intent Agent": 
+    - "https://github.com/microsoft/TWL400-Customer-Intent-Agent"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
