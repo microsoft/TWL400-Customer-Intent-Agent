@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Where does this fit in as part of an end-to-end demo?
 
-![custintent_015.png](/media/custintent_015.png)
+![custintent_015.png](media/custintent_015.png)
 
 ## Use case / scenario
 
