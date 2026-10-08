@@ -7,7 +7,6 @@ has_children: true
 
 # Exercise 03: Configure intents and intent groups
 
-
 Now that you have the prerequisite components configured, you're going to configure the Customer Intent Agent to process intents when new cases and conversations are created.
 
 ### In this exercise you're going to do the following:
